@@ -1,0 +1,13 @@
+
+scripts/Notebook/
+scripts/__pycache__/
+scripts/.ipynb_checkpoints/
+config/
+.ipynb_checkpoints/
+instructions###/
+RTscrapper_env/
+
+
+
+*.pyc
+
