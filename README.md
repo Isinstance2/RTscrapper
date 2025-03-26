@@ -8,9 +8,9 @@ RTscrapper automates the extraction of character data from the Hoyoverse platfor
 
 * Data Cleaning: Processes and cleans the scraped data by removing outliers and applying necessary transformations.
 
-* Data Upload: Uploads cleaned data to Google Cloud Storage (GCS) and loads it into BigQuery for further analysis.
+* Data Upload: Uploads cleaned data to Google Cloud Storage (GCS).
 
-* BigQuery Dashboard: Enables querying and visualization of data in BigQuery.
+
 
 This project streamlines the entire workflow of web scraping, data processing, and storage while allowing for future scalability to additional platforms or data sources.
 
