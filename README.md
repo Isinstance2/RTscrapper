@@ -1,4 +1,4 @@
-# RTscrapper: Automated Web Scraping, Data Cleaning, and BigQuery Integration
+# RTscrapper: Automated Web Scraping & Data Cleaning
 
 ## Overview
 
